@@ -1,4 +1,3 @@
-![Logo_Politecnico_Milano](https://github.com/user-attachments/assets/69a3924a-05a9-4590-8ef8-651f3e58a5f1)
 
 # USABILITY PROJECT
 
