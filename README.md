@@ -1,12 +1,14 @@
-# ![][image1]
+![Logo_Politecnico_Milano](https://github.com/user-attachments/assets/69a3924a-05a9-4590-8ef8-651f3e58a5f1)
 
 # USABILITY PROJECT
 
-## **Ahmed Abdelhamid \- 11052203**  **Amr Elmasry \- 11036293**  **Ahmed Adel \- 11052203**
+## **Ahmed Abdelhamid \- 11052203**  
+**Amr Elmasry \- 11036293**  
+**Ahmed Adel \- 11052203**
 
-## **Course Title:** HYP 2024-2025  **Project Title:** Usability Evaluation
+## **Course Title:** HYP 2024-2025 
 
-## 
+##  **Project Title:** Usability Evaluation
 
 ## **Chosen Website:** [Dolomiti Superski](https://www.dolomitisuperski.com/en/home)
 
